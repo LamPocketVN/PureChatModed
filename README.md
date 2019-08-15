@@ -1,8 +1,8 @@
 # PureChatModed
  * PureChat moded by LamPocketVN
 # Features
- [X] Muti lines support
- [ ] RankUp Support
+ - [X] Muti lines support
+ - [ ] RankUp Support
 # Requied
  * PurePerms
  * RankUp (next update)
